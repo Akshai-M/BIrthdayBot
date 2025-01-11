@@ -1,4 +1,4 @@
-# BIrthdayBot
+# BirthdayBot
 
 # Packages to install:
 # 1. UiPath.Excel.Activities
